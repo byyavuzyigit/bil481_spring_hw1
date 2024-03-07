@@ -1,0 +1,1 @@
+Basic method that iterates through both arraylists and appends the corresponding text(text1 for list1's elements, text2 for list2's elements) to the result String.
