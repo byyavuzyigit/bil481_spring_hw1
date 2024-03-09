@@ -1,4 +1,4 @@
-Basic method that iterates through both arraylists and appends the corresponding text(text1 for list1's elements, text2 for list2's elements) to the result String.
+Basic method that iterates through both arraylists and appends the corresponding text(text1 for list1's elements, text2 for list2's elements) to the result String as many the element in the list.
 
 First two inputs of the method are the arraylists and the remaining inputs are the text Strings.
 
